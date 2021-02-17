@@ -1,1 +1,2 @@
-FROM alphine:latest
+FROM centos
+MAINTAINER aditya
